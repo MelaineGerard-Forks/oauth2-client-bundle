@@ -1,6 +1,10 @@
 # OAuth / Social Integration for Symfony: KnpUOAuth2ClientBundle
 
-[![CI](https://github.com/knpuniversity/oauth2-client-bundle/actions/workflows/ci.yaml/badge.svg)](https://github.com/knpuniversity/oauth2-client-bundle/actions/workflows/ci.yaml)
+> 📢 This repository is a fork of [knpuniversity/oauth2-client-bundle](https://github.com/knpuniversity/oauth2-client-bundle).  
+> If you're looking for the stable or mainline version without the custom changes in this fork, check out the original project here: [[link-to-original-repo](https://github.com/knpuniversity/oauth2-client-bundle)].
+
+
+[![CI](https://github.com/melainegerard-forks/oauth2-client-bundle/actions/workflows/ci.yaml/badge.svg)](https://github.com/melainegerard-forks/oauth2-client-bundle/actions/workflows/ci.yaml)
 
 Easily integrate with an OAuth2 server (e.g. Facebook, GitHub) for:
 
@@ -19,7 +23,7 @@ You might be wondering "why are there two popular OAuth bundles?".
 
 Great question! Generally speaking, `hwi/oauth-bundle` gives you more features out-of-the-box,
 including social authentication and registration (called "connect"). But, it's also a bit harder
-to install. The `knpuniversity/oauth2-client-bundle`, takes more work to setup, but gives you
+to install. The `melainegerard/oauth2-client-bundle`, takes more work to setup, but gives you
 more low-level control.
 
 Not sure which to use? If you need OAuth (social) authentication & registration, try
@@ -31,7 +35,7 @@ Install the bundle library via [Composer](https://getcomposer.org/) by
 running the following command:
 
 ```bash
-composer require knpuniversity/oauth2-client-bundle
+composer require melainegerard/oauth2-client-bundle
 ```
 
 If you're using Symfony Flex, the bundle will be automatically enabled. For
