@@ -1,7 +1,7 @@
 # OAuth / Social Integration for Symfony: KnpUOAuth2ClientBundle
 
 > 📢 This repository is a fork of [knpuniversity/oauth2-client-bundle](https://github.com/knpuniversity/oauth2-client-bundle).  
-> If you're looking for the stable or mainline version without the custom changes in this fork, check out the original project here: [[link-to-original-repo](https://github.com/knpuniversity/oauth2-client-bundle)].
+> If you're looking for the stable or mainline version without the custom changes in this fork, check out the original project here: [[https://github.com/knpuniversity/oauth2-client-bundle](https://github.com/knpuniversity/oauth2-client-bundle)].
 
 
 [![CI](https://github.com/melainegerard-forks/oauth2-client-bundle/actions/workflows/ci.yaml/badge.svg)](https://github.com/melainegerard-forks/oauth2-client-bundle/actions/workflows/ci.yaml)
